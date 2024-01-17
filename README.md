@@ -1,4 +1,6 @@
 # Training-Index-Model-for-Security-Price-Prediction
+Successfully completed a comprehensive course project under the guidance of Prof. Abhinava Tripathi (Nov '23), focusing on Security Price Prediction using Index Models. 
+Key achievements include:
 
 ## Applied Machine Learning to Financial Data: 
 Successfully utilized machine learning techniques for sentiment analysis, dividend announcements, and stock market predictions, showcasing expertise in handling extensive financial datasets over a 5-7 year period.
